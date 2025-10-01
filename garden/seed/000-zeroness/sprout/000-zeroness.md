@@ -9,7 +9,7 @@ title: zeroness
 zeronessは
 zero, one, zone
 
-0:ZEROness, 1:zerONEess, ∞：ZerONEss
+0: ZEROness, 1: zerONEess, ∞: ZerONEss
 
 0：まっさら
 1：ありのまま
