@@ -1,7 +1,7 @@
 ---
 id: 0001
 type: sprout
-parent: ../seed.md
+parent: ../zeroness.md
 tags: [sprout, zeroness]
 title: zeroness
 ---
