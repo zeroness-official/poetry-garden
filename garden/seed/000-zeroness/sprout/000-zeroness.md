@@ -1,8 +1,10 @@
 ---
-id: 0001
+id: 1
 type: sprout
-parent: ../zeroness.md
-tags: [sprout, zeroness]
+parent: "[[zeroess]]"
+tags:
+  - sprout
+  - zeroness
 title: zeroness
 ---
 ## sprout
