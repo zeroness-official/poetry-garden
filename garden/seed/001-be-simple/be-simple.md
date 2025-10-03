@@ -10,4 +10,4 @@ tags:
 be simple
 
 ### sprouts
-- [[sprout/000-zeroness]]
+- [[000-be-simple]]

@@ -1,7 +1,7 @@
 ---
 id: 0
 type: sprout
-parent: "[[zeroess]]"
+parent: "[[be-simple]]"
 tags:
   - sprout
   - zeroness
