@@ -9,4 +9,7 @@ tags:
 zeroness
 
 ### sprouts
-- [[sprout/000-zeroness]]
+- [[000-zeroness]]
+- [[001-zero]]
+- [[002-one]]
+- [[003-zone]]
