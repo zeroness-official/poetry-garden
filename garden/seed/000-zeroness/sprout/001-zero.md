@@ -6,7 +6,7 @@ tags:
   - sprout
   - zeroness
   - zero
-title: zeroness
+title: zero
 ---
 ## sprout
 0：zero  
