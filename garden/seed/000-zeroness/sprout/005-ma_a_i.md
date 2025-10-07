@@ -5,6 +5,7 @@ parent: "[[zeroess]]"
 tags:
   - sprout
   - zeroness
+  - ma_a_i
 title: まあい
 ---
 ## sprout
