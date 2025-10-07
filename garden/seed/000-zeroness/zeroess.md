@@ -15,3 +15,4 @@ zeroness
 - [[003-zone]]
 - [[004-whiteboard]]
 - [[005-ma_a_i]]
+- [[006-set_zero]]
