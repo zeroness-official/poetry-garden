@@ -16,3 +16,4 @@ zeroness
 - [[004-whiteboard]]
 - [[005-ma_a_i]]
 - [[006-set_zero]]
+- [[007-origins]]
