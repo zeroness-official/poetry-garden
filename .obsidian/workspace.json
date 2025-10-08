@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "56dfac5c45deafda",
+    "type": "split",
+    "children": [
+      {
+        "id": "59fa54a522c024ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf350d0b6ab10b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "garden/seed/000-zeroness/sprout/006-set_zero.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "006-set_zero"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f2b4f8f2f9e756a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c90e89d936fb4527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9813702319c9050",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3a31b7f0f99c8693",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1a443399930604ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2a154c481e26943",
+    "type": "split",
+    "children": [
+      {
+        "id": "52e747bc2dc65343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db8ac1b4dd60f8b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "garden/seed/000-zeroness/zeroess.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for zeroess"
+            }
+          },
+          {
+            "id": "d5125cd15022cbf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "garden/seed/000-zeroness/zeroess.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from zeroess"
+            }
+          },
+          {
+            "id": "94f3df065fc45854",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "281b09b2b97f7b7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "garden/seed/000-zeroness/zeroess.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of zeroess"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bf350d0b6ab10b9d",
+  "lastOpenFiles": [
+    "garden/seed/000-zeroness/zeroess.md",
+    "garden/seed/000-zeroness/sprout/006-set_zero.md",
+    "garden/seed/000-zeroness/sprout/005-ma_a_i.md",
+    "garden/seed/000-zeroness/sprout/004-whiteboard.md",
+    "garden/seed/000-zeroness/sprout/003-zone.md",
+    "garden/seed/000-zeroness/sprout/002-one.md",
+    "garden/seed/000-zeroness/sprout/001-zero.md",
+    "garden/seed/000-zeroness/sprout/000-zeroness.md",
+    "garden/seed/000-zeroness/sprout 1/003-zone.md",
+    "garden/seed/000-zeroness/sprout 1/002-one.md",
+    "garden/seed/000-zeroness/sprout 1/001-zero.md",
+    "garden/seed/000-zeroness/sprout 1/000-zeroness.md",
+    "garden/seed/000-zeroness/sprout 1"
+  ]
+}
