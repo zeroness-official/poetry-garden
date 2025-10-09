@@ -5,6 +5,7 @@ parent: "[[zeroess]]"
 tags:
   - sprout
   - zeroness
+  - be-simple
 title: 生きるとは
 ---
 ## sprout
