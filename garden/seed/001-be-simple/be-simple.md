@@ -18,3 +18,4 @@ be simple
 - [[005-utau]]
 - [[006-breath]]
 - [[007-mama]]
+- [[008-maru]]
