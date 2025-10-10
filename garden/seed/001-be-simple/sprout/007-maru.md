@@ -6,7 +6,7 @@ tags:
   - sprout
   - zeroness
   - be-simple
-title: まあい
+title: まま・あま・いま
 ---
 ## sprout
 ま・あ・い  
