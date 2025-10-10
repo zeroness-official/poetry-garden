@@ -14,3 +14,4 @@ be simple
 - [[001-what-is-simplicity]]
 - [[002-simple-life]]
 - [[003-suki]]
+- [[004-be-easy]]
