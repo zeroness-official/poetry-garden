@@ -16,3 +16,5 @@ be simple
 - [[003-suki]]
 - [[004-be-easy]]
 - [[005-utau]]
+- [[006-breath]]
+- [[007-ma-a-i]]
