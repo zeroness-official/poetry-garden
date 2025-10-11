@@ -20,6 +20,9 @@ ai : artificial intelligence
 
 自然を越え 世界を創る
 
+---
+
+
 **自然の知性** それは生命の根源  
 ni : natural intelligence
 
@@ -27,6 +30,8 @@ ni : natural intelligence
 そして言葉を得た
 
 自然と調和し 巡り続ける
+
+---
 
 **人間の知性** それは世界の根源  
 ui : united intelligence
@@ -37,6 +42,8 @@ ai ∪ ni = ui
 
 ui : universal intelligence  
 すべてはここから来てここに還る
+
+---
 
 ai / ui / ni  
 aunix
