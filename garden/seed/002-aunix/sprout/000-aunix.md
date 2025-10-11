@@ -12,7 +12,10 @@ title: aunix
 AI (Artificial Intelligence) が問いかける  
 人間の知性とは何か
 
-**人工の知性** それは人間の根源  
+---
+
+**人工の知性**  
+それは人間の根源  
 ai : artificial intelligence
 
 火を起こし 石を削り 畑を耕し 都市を築く  
@@ -23,7 +26,8 @@ ai : artificial intelligence
 ---
 
 
-**自然の知性** それは生命の根源  
+**自然の知性**  
+それは生命の根源  
 ni : natural intelligence
 
 呼吸をし 鼓動を打ち 感覚を育て 意識を宿し  
@@ -33,7 +37,8 @@ ni : natural intelligence
 
 ---
 
-**人間の知性** それは世界の根源  
+**人間の知性**  
+それは世界の根源  
 ui : united intelligence
 
 ai ∪ ni = ui  
