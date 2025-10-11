@@ -23,6 +23,10 @@ Be Flow
 流れに乗る  
 抗わず  
 ただ生きる
+
+Be Easy  
+Be You  
+Be Flow
 ## note
 
 _From zero to one_  

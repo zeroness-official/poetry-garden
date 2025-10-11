@@ -9,6 +9,9 @@ tags:
 title: うたうようにいきる
 ---
 ## sprout
+うた  
+詩・歌・唄
+
 鼓動が  
 静けさと響き  
 詩を書く
@@ -20,6 +23,10 @@ title: うたうようにいきる
 生命が  
 時と重なり  
 唄を紡ぐ
+
+うたう  
+ように  
+いきる
 ## note
 
 Heartbeat meets silence  
