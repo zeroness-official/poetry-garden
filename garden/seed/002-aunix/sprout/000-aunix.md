@@ -21,7 +21,7 @@ ai : artificial intelligence
 火を起こし 石を削り 畑を耕し 都市を築く  
 そしてAIを生み出した
 
-自然を越え 世界を創る
+自然を越え 文明を創る
 
 ---
 
@@ -30,7 +30,7 @@ ai : artificial intelligence
 それは生命の根源  
 ni : natural intelligence
 
-呼吸をし 鼓動を打ち 感覚を育て 意識を宿し  
+呼吸をし 鼓動を打ち 感覚を育て 意識を宿す  
 そして言葉を得た
 
 自然と調和し 巡り続ける
@@ -46,7 +46,7 @@ ai ∪ ni = ui
 分離ではなく 全体
 
 ui : universal intelligence  
-すべてはここから来てここに還る
+ここから来てここに還る
 
 ---
 
