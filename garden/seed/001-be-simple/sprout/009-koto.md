@@ -6,7 +6,7 @@ tags:
   - sprout
   - zeroness
   - be-simple
-title: まる・ある・いる
+title: こと・おと・もと
 ---
 ## sprout
 言（こと）
@@ -18,11 +18,11 @@ title: まる・ある・いる
 から  
 ま・あ・い
 
-言が音へと    
+言が音へと  
 読み還る
 
 ま・あ・い  
-から
+から  
 MA・A・I
 
 音が素へと  
