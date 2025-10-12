@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "garden/seed/000-zeroness/sprout/006-set_zero.md",
+                "file": "garden/seed/002-aunix/sprout/000-aunix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006-set_zero"
+              "title": "000-aunix"
             }
           }
         ]
@@ -171,18 +171,33 @@
   },
   "active": "bf350d0b6ab10b9d",
   "lastOpenFiles": [
+    "garden/seed/002-aunix/aunix.md",
+    "garden/seed/002-aunix/sprout/000-aunix.md",
+    "garden/seed/001-be-simple/sprout/000-be-simple.md",
+    "garden/seed/002-aunix/sprout",
+    "garden/seed/001-be-simple/be-simple.md",
     "garden/seed/000-zeroness/zeroess.md",
-    "garden/seed/000-zeroness/sprout/006-set_zero.md",
-    "garden/seed/000-zeroness/sprout/005-ma_a_i.md",
+    "garden/seed/001-be-simple/sprout/009-koto.md",
+    "garden/seed/002-aunix",
+    "garden/seed/001-be-simple/sprout/002-simple-life.md",
+    "garden/seed/001-be-simple/sprout/008-maru.md",
+    "garden/seed/001-be-simple/sprout/007-mama.md",
+    "garden/seed/001-be-simple/sprout/006-breath.md",
+    "garden/seed/001-be-simple/sprout/005-utau.md",
+    "garden/seed/001-be-simple/sprout/004-be-easy.md",
+    "garden/seed/001-be-simple/sprout/003-suki.md",
+    "garden/seed/001-be-simple/sprout/001-what-is-simplicity.md",
+    "garden/seed/000-zeroness/sprout/010-loop.md",
+    "garden/seed/000-zeroness/sprout/009-uneventful.md",
+    "garden/seed/000-zeroness/sprout/008-mai.md",
+    "garden/seed/000-zeroness/sprout/007-origins.md",
+    "garden/seed/000-zeroness/sprout/006-set-zero.md",
+    "garden/seed/000-zeroness/sprout/005-ma-a-i.md",
     "garden/seed/000-zeroness/sprout/004-whiteboard.md",
     "garden/seed/000-zeroness/sprout/003-zone.md",
     "garden/seed/000-zeroness/sprout/002-one.md",
     "garden/seed/000-zeroness/sprout/001-zero.md",
     "garden/seed/000-zeroness/sprout/000-zeroness.md",
-    "garden/seed/000-zeroness/sprout 1/003-zone.md",
-    "garden/seed/000-zeroness/sprout 1/002-one.md",
-    "garden/seed/000-zeroness/sprout 1/001-zero.md",
-    "garden/seed/000-zeroness/sprout 1/000-zeroness.md",
     "garden/seed/000-zeroness/sprout 1"
   ]
 }

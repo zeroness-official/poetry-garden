@@ -42,7 +42,7 @@ ni : natural intelligence
 ui : universal intelligence
 
 ai ∪ ni = ui  
-対立ではなく 統合
+対立ではなく 統合  
 ui : united intelligence
   
 個にして全  
