@@ -39,12 +39,12 @@ ni : natural intelligence
 
 **人間の知性**  
 それは世界の根源  
-ui : united intelligence
+ui : universal intelligence
 
 ai ∪ ni = ui  
 対立ではなく 統合
-
-ui : universal intelligence  
+ui : united intelligence
+  
 個にして全  
 全にして個
 
