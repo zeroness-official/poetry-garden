@@ -11,3 +11,4 @@ aunix
 
 ### sprouts
 - [[000-aunix]]
+- [[001-app-os-hard]]
