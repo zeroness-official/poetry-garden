@@ -6,27 +6,27 @@ tags:
   - sprout
   - zeroness
   - be-simple
-title: Be Easy, Be You, Be Flow
+title: be easy, be you, be flow
 ---
 ## sprout
-Be Easy  
+be easy  
 手放す  
 力を抜いて  
 まっさらに
 
-Be You  
+be you  
 飾らない  
 ありのまま  
 そのままでいい
 
-Be Flow  
+be flow  
 流れに乗る  
-抗わず  
+あらがわず  
 ただ生きる
 
-Be Easy  
-Be You  
-Be Flow
+be easy  
+be you  
+be flow
 ## note
 
 _From zero to one_  
