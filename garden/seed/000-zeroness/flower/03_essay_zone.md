@@ -6,7 +6,7 @@ tags:
   - flower
   - zeroness
   - zone
-title: Essay 3 - Zone: いきる
+title: "Essay 3 - Zone: いきる"
 version: 0.1-alpha
 ---
 

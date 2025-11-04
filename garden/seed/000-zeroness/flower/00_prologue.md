@@ -6,7 +6,7 @@ tags:
   - flower
   - zeroness
   - prologue
-title: Prologue - Zeronessとは
+title: "Prologue - Zeronessとは"
 version: 0.1-alpha
 ---
 

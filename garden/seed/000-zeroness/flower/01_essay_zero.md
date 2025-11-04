@@ -6,7 +6,7 @@ tags:
   - flower
   - zeroness
   - zero
-title: Essay 1 - Zero: まっさら
+title: "Essay 1 - Zero: まっさら"
 version: 0.1-alpha
 ---
 
