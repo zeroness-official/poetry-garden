@@ -50,10 +50,12 @@ Be simple.
 
 ---
 
-ZERONESS。
+zeroness。
 
 このスペルの中に、
-ZEROと、ONEが、隠れている。
+zero と、one と、zone が、隠れている。
+
+途中飛ぶけど、全部入ってる。
 
 面白い偶然。
 
