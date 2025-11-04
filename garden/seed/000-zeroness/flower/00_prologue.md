@@ -48,6 +48,17 @@ Be simple.
 
 それが、Zeroness。
 
+---
+
+ZERONESS。
+
+このスペルの中に、
+ZEROと、ONEが、隠れている。
+
+面白い偶然。
+
+---
+
 Zero / One / Zone。
 
 ---
