@@ -399,7 +399,7 @@ version: 3.0-alpha
 
 ---
 
-## be simple, be easy
+## be easy
 
 > be easy
 > 手放す
@@ -408,10 +408,9 @@ version: 3.0-alpha
 
 — sprout/004-be-easy
 
-シンプルに、生きる。  
 気楽に、生きる。
 
-be simple, be easy。
+be easy。
 
 抱え込まず、  
 手放す。
