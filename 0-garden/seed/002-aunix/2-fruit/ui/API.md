@@ -1,4 +1,4 @@
-# aunix API Specification
+# aunix API仕様
 (aunix OS システムコール定義 v1.0)
 
 `aunix` OSは、`zeroness`カーネル（ni層）の機能を呼び出すための5つの主要API（主要原則）を提供する。これらは査読ディスカッション（2025/11/09）に基づき定義された。
